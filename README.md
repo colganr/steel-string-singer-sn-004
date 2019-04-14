@@ -31,7 +31,7 @@ For this project
 * .125" Radius bends
 * Welding considerations is in the "Reference-Pictures" section of this project. The "sides" will be a second part to tack welded in place. No full weld beads required as the tack welding is enough. 
 * Price breaks usually are given after quantity of 2x. Anything in the 10x range will give you the best price breaks.
-* SSS #002 has a brushed finish that can be directly silk screened. Some folks may prefer having the chassis powder coated silver but it is not required unless it's your personal preference. 
+* SSS #004 has a powder coated finish. I used Harbor Freight powder after it was sand blasted for secure adhesion. The powder can be found here: https://www.harborfreight.com/16-oz-powder-coat-paint-matte-black-93306.html
 
 Send along the *.ipt and the *.stp files to the fabricator as well as the Reference-Pictures. Some fabricators also do powder coating and silk screening of the artwork. I recommend 
 
