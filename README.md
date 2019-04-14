@@ -24,6 +24,8 @@ When finding a sheet metal fabricator for a quote, they will likely want to know
 * Quantity
 * Finishing
 
+I use CAMMetals in Connecticut and recommend their work. I can't guarentee they will take you on as a customer but it doesn't hurt to get a quote. http://www.cammmetals.com/
+
 For this project
 * 26.5" x 2.75" x 8.5"
 * 5052 Aluminum
