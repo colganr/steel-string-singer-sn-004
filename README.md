@@ -34,7 +34,7 @@ For this project
 * Price breaks usually are given after quantity of 2x. Anything in the 10x range will give you the best price breaks.
 * SSS #004 has a powder coated finish. I used Harbor Freight powder after it was sand blasted for secure adhesion. The powder can be found here: https://www.harborfreight.com/16-oz-powder-coat-paint-matte-black-93306.html
 
-Send along the *.ipt and the *.stp files to the fabricator as well as the Reference-Pictures. Some fabricators also do powder coating and silk screening of the artwork. I recommend 
+Send along the *.ipt and the *.stp files to the fabricator as well as the Reference-Pictures. Some fabricators also do powder coating and silk screening of the artwork. I recommend seeking both, having the fabricator quote the finishing, and having the powder/silkscreen done separately. 
 
 ### Notes about Silk Screening
 You will need the following fonts if you want to modify the *.svg artwork. I cannot upload these fonts because some of them are copyright protected but a quick Google search will likely provide you what you need. 
